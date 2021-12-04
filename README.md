@@ -9,7 +9,7 @@ let bilgiler = [
 {
 "isim" : "Yunus Emre",
 "soyisim" : "Gün",
-"yas" : "11",
+"yas" : "12",
 "nerede" : ["Türkiye/Balıkesir"],
 "dil" : ['JavaScript', 'HTML', 'CSS', 'TypeScript', 'VB.'],
 "tecrube" : '1 yıl'
