@@ -40,8 +40,8 @@ console.log(bilgiler.map(bilgi => bilgi ))
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Next.js](https://img.shields.io/badge/nextjs-%23000000.svg?&style=flat-square&logo=next.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/vuejs-%23000000.svg?&style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/nextjs-white.svg?&style=flat-square&logo=next.js&logoColor=black)
+![Next.js](https://img.shields.io/badge/vuejs-34485D.svg?&style=flat-square&logo=vue.js&logoColor=40B883)
 
 
 <p align="center">
