@@ -44,12 +44,4 @@ console.log(bilgiler.map(bilgi => bilgi ))
 ![Next.js](https://img.shields.io/badge/vuejs-34485D.svg?&style=flat-square&logo=vue.js&logoColor=40B883)
 
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yunusemredeveloper&show_icons=true&hide_title=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&row=1" />
-</p>
-
-
-
 
