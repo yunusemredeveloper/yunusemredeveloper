@@ -9,14 +9,14 @@ let bilgiler = [
 {
 "isim" : "Yunus Emre",
 "soyisim" : "Gün",
-"yas" : "12",
+"yas" : "???"
 "nerede" : ["Türkiye/Balıkesir"],
 "dil" : ['JavaScript', 'HTML', 'CSS', 'TypeScript', 'VB.'],
 "tecrube" : '1 yıl'
 }
 ]
 
-console.log(bilgiler.map(bilgi => bilgi ))
+console.log('Tecrübe: ' + bilgiler.tecrube)
 ```
 
 ### Biliyorum
@@ -33,6 +33,7 @@ console.log(bilgiler.map(bilgi => bilgi ))
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![SCSS](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Discord.JS](https://img.shields.io/badge/-Discord.js-%231572B6?style=flat-square&logo=discord&color=000000)
 
 
 ### Şu an öğreniyorum
